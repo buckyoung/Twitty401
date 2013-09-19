@@ -35,8 +35,8 @@ public class OAuth {
      * 
      */
 
-    private static final String CONSUMER_KEY = "JNyFWSzfqmOHK8MIfGSp0A";
-    private static final String CONSUMER_KEY_SECRET = "EajCLv8P20an9kOm0dNE1gX5fdvOyvK4C1GYO8b0o";
+    private static final String CONSUMER_KEY = "XXXX --- REMOVED --- XXXX";
+    private static final String CONSUMER_KEY_SECRET = "XXXX --- REMOVED ---- XXXX";
 
     public static void setConsumerKeys() {
         Twitty401.twitter.setOAuthConsumer(CONSUMER_KEY, CONSUMER_KEY_SECRET);
