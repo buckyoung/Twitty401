@@ -11,11 +11,11 @@ Completed as a final project for CS401:
 Intermediate Programming using Java
 at the University of Pittsburgh
 
-:Base
+* * *
+* * *
 
 ![Alt text](http://twitty401.droppages.com/logo.png "Tweet!")
 
-* * *
 * * *
 
 #<u>How to use the application:</u>
