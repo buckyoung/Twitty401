@@ -3,14 +3,13 @@
 
 
 ##Desktop Twitter client written in Java
+Twitty401 is a desktop Twitter client written in Java. With twenty-one classes, 3000+ lines of code, and several UIs designed with Swing in the Netbeans IDE -- this client is fully-featured. Feel free to search for and follow users, reply and favorite, open URLs in your favorite browser, shorten links using the bit.ly service, tweet, and more! 
 
-Utilizes the Twitter4j API, Bitlyj API, and oAuth
+- Utilizes the Twitter4j API, Bitlyj API, and OAuth standard
 
-UI built in Netbeans / Swing
+- Several UI's built in Netbeans / Swing
 
-Completed as a final project for CS401:
-Intermediate Programming using Java
-at the University of Pittsburgh
+- Completed as a final project for CS401: Intermediate Programming using Java at the University of Pittsburgh, received best-in-class commendation 
 
 * * *
 * * *
